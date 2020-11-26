@@ -12,11 +12,7 @@ export class DeseosService {
 
   constructor() { 
     this.cargarStorage();
-    //const lista1 = new Lista('Recolectar Piedras del infinito');
-    //const lista2 = new Lista('Heroes a desaparecer');
-
-    //this.listas.push(lista1, lista2);
-
+ 
     
     
     
